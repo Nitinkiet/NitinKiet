@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **scikit-learn,React**
 
-- 💬 Ask me about **C++,pandas,scikit-learn,javacript**
+- 💬 Ask me about **C++,pandas,javacript**
 
 - 📫 How to reach me **nitinchoudhary0908@gmail.com**
 
