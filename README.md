@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"><img src="https://media.tenor.com/0i8TCrriHLUAAAAd/developer-developers.gif" alt="coding" height="50%" style="max-width:100%; display:inline-block;"></p>
+<p align="right"><img src="https://media.tenor.com/0i8TCrriHLUAAAAd/developer-developers.gif" alt="coding" height="50%" width="100%"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkiet&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkiet" /> </p>
 
 - 🔭 I’m currently working on **Churn Prediction in Telecom Industry using Logistic Regression**
