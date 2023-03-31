@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am funny  😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/nitin--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin--" height="30" width="40" /></a>
 <a href="https://kaggle.com/nitin0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nitin0908" height="30" width="40" /></a>
 <a href="https://instagram.com/nitinchoudhary5341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitinchoudhary5341" height="30" width="40" /></a>
